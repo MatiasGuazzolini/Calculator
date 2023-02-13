@@ -1,7 +1,7 @@
 .container {
     max-width: 400px;
     margin: 10vh auto 0 auto;
-    box-shadow: 0px 0px 43px 17px rgba(153,153,153,1);
+    box-shadow: 0px 0px 43px 17px rgb(160, 157, 157);
 }
 
 #display {
@@ -33,12 +33,12 @@
 }
 
 #equal {
-    background-color: rgb(85, 85, 255);
+    background-color: rgb(72, 72, 243);
     color: white;
 }
 
 .button:hover {
-    background-color: #323330;
+    background-color: #252523;
     color: white;
     transition: 0.5s ;
 }
@@ -56,11 +56,11 @@
 }
 
 #specialColor:hover{
-    background-color: #323330;
+    background-color: #252523;
 }
 #specialColor2:hover{
-    background-color: #323330;
+    background-color: #252523;
 }
 #specialColor3:hover{
-    background-color: #323330;
+    background-color: #252523;
 }
